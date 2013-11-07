@@ -1,6 +1,5 @@
 package git_test;
 
 public class test {
-	hej22
-
+	hej2
 }
